@@ -1,0 +1,7 @@
+PROGRAMMER'S KEYBOARD READ ME
+
+Use of the program is best implemented in the current condition on a Macintosh computer running the mac OS. In order to use the program the pynput module of python must be active on the computer
+
+In order to make the long press functionality work on a mac the user must go to the system preferences, and then once there click on keyboard. From here the user should  move the "Delay Until Repeat" slider to long. 
+
+Attempts to implement the funcitons on WIndows computer's were not met with much success. An dat current development no method is known that will properly allow for the functionality
